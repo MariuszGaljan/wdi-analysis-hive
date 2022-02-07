@@ -1,0 +1,21 @@
+QAT     Qatar                   13697.338       1990
+ARE     United Arab Emirates    12276.816       1991
+BHR     Bahrain                 10844.755       1992
+LUX     Luxembourg              9266.942        1993
+CUW     Curacao                 8992.359        1994
+KWT     Kuwait                  9084.983        1995
+ISL     Iceland                 8847.785        1996
+CAN     Canada                  7965.5195       1997
+USA     United States           7803.6978       1998
+TTO     Trinidad and Tobago     7348.5103       1999
+BRN     Brunei Darussalam       7213.6655       2000
+FIN     Finland                 6395.882        2001
+SWE     Sweden                  5802.11         2002
+SGP     Singapore               6216.713        2003
+NOR     Norway                  5770.9546       2004
+BEL     Belgium                 5606.2188       2005
+OMN     Oman                    6032.004        2006
+AUS     Australia               5868.347        2007
+SAU     Saudi Arabia            5853.5356       2008
+GIB     Gibraltar               5655.5728       2009
+NLD     Netherlands             5020.9985       2010
